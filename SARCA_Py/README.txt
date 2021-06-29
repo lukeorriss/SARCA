@@ -1,0 +1,1 @@
+Need to run as root (sudo python3 main.py)

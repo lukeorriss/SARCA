@@ -1,0 +1,12 @@
+24/05/2021 19:36:52	Temperature: 58.0 F, 24.2 C	 Humidity: 62.7%
+24/05/2021 19:37:06	Temperature: 58.0 F, 24.2 C	 Humidity: 60.2%
+24/05/2021 19:37:10	Temperature: 58.0 F, 24.2 C	 Humidity: 67.8%
+24/05/2021 19:37:15	Temperature: 58.0 F, 24.2 C	 Humidity: 69.1%
+24/05/2021 19:37:19	Temperature: 57.900000000000006 F, 24.1 C	 Humidity: 64.2%
+24/05/2021 19:37:33	Temperature: 57.900000000000006 F, 24.1 C	 Humidity: 61.8%
+24/05/2021 19:37:51	Temperature: 57.900000000000006 F, 24.1 C	 Humidity: 61.5%
+24/05/2021 19:38:00	Temperature: 57.900000000000006 F, 24.1 C	 Humidity: 60.9%
+24/05/2021 19:38:09	Temperature: 57.900000000000006 F, 24.1 C	 Humidity: 61.8%
+24/05/2021 19:38:14	Temperature: 57.900000000000006 F, 24.1 C	 Humidity: 61.8%
+24/05/2021 19:38:23	Temperature: 57.900000000000006 F, 24.1 C	 Humidity: 58.6%
+24/05/2021 19:38:27	Temperature: 57.900000000000006 F, 24.1 C	 Humidity: 60.0%
